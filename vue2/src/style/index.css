@@ -1,0 +1,8 @@
+@import "~ant-design-vue/dist/antd.css";
+
+/* 全局 */
+.body, html {
+    width: 100%;
+    height: 100%;
+    background-color: #f6f8f9;
+}
